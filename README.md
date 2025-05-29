@@ -1,2 +1,3 @@
 # delta-123
-This is demo for delta
+This is demo for git &github class
+
